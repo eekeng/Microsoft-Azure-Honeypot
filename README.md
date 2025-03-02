@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-In this project I configured a VM running on Microsoft Azure to act as a Honeypot using Remote Desktop Protocol(RDP). I then used Log Analytics Workplace to extract and process the metadata from the failed login attempts into geographic data, including latitude, longitude, state/province, country and more. Finally, I mapped the geographic data using Microsoft Sentinel.
+In this project, I configured a virtual machine on Microsoft Azure to function as a Honeypot, specifically targeting Remote Desktop Protocol (RDP) attacks. I then utilized Log Analytics Workspace to extract and analyze metadata from failed login attempts, converting it into geographic data, including latitude, longitude, state/province, and country. Finally, I visualized this data using Microsoft Sentinel, mapping the attack origins to gain insights into potential threat sources.
+
 <br />
 
 
